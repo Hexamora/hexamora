@@ -1,13 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hexamora&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Abdullah%20%7C%20Security%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&descColor=88ffcc&animation=fadeIn" />
+<pre>
+██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗ ██████╗ ██████╗  █████╗ 
+██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║██╔═══██╗██╔══██╗██╔══██╗
+███████║█████╗   ╚███╔╝ ███████║██╔████╔██║██║   ██║██████╔╝███████║
+██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║██║   ██║██╔══██╗██╔══██║
+██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
 
-</div>
+### `Abdullah` — Security Researcher & Full Stack Developer 🇮🇩
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Abdullah+%F0%9F%91%8B;Security+Researcher+%26+Bug+Hunter+%F0%9F%90%9B;Full+Stack+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Abdullah+%F0%9F%91%8B;Security+Researcher+%26+Bug+Hunter+%F0%9F%90%9B;Full+Stack+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
 </div>
 
 <br>
@@ -83,10 +90,10 @@ class Hexamora:
 ```bash
 $ whoami --skills-in-progress
 
-[▓▓▓▓▓▓▓▓░░] Laravel Framework      80%
-[▓▓▓▓▓▓░░░░] Bug Hunting / Recon    60%
+[▓▓▓▓▓▓▓▓░░] Laravel Framework         80%
+[▓▓▓▓▓▓░░░░] Bug Hunting / Recon       60%
 [▓▓▓▓░░░░░░] Web Application Security  40%
-[▓▓░░░░░░░░] CTF Challenges         20%
+[▓▓░░░░░░░░] CTF Challenges            20%
 
 > Keep pushing. Every day is a new exploit. 🔐
 ```
@@ -114,10 +121,10 @@ $ whoami --skills-in-progress
 >
 > 📚 HR. Tirmidzi (2344) — Hadits Shahih
 
-</div>
-
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+---
+
+*© Hexamora — Bekasi, Indonesia 🇮🇩*
+
 </div>
