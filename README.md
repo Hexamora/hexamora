@@ -62,7 +62,6 @@ class Hexamora:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hexamora&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff&count_private=true" />
   <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hexamora&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff" />
 </div>
 
