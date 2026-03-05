@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hexamora&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Abdullah%20%7C%20Security%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&descColor=88ffcc&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hexamora&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Abdullah%20%7C%20Security%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&descColor=88ffcc&animation=fadeIn" />
 
 </div>
 
@@ -119,5 +119,5 @@ $ whoami --skills-in-progress
 <br>
 
 <div align="center">
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&§ion==footer&animation=fadeIn)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 </div>
