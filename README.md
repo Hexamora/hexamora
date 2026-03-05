@@ -119,5 +119,5 @@ $ whoami --skills-in-progress
 <br>
 
 <div align="center">
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&§ion==footer&animation=fadeIn)
 </div>
