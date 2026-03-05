@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="60%">
 
