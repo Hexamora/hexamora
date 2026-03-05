@@ -10,9 +10,11 @@
 
 <br>
 
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class Hexamora:
@@ -32,7 +34,14 @@ class Hexamora:
     motto      = "Tawakal & Keep Hacking 🔐"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
