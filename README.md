@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00ff88&height=200&section=header&text=Hexamora&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Abdullah%20%7C%20Security%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&descColor=88ffcc&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hexamora&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Abdullah%20%7C%20Security%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&descColor=88ffcc&animation=fadeIn)
 
 </div>
 
@@ -64,12 +64,16 @@ class Hexamora:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hexamora&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Hexamora&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff88&fire=00cc66&currStreakLabel=00ff88" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hexamora&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexamora&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexamora&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=hexamora&theme=dark&background=0d1117&hide_border=true&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexamora&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -115,5 +119,5 @@ $ whoami --skills-in-progress
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
 </div>
