@@ -20,7 +20,7 @@
 class Hexamora:
     name       = "Abdullah"
     alias      = "Hexamora"
-    location   = "Bekasi, Indonesia 🇮🇩"
+    location   = "Jakarta, Indonesia 🇮🇩"
     role       = ["Security Researcher", 
                   "Bug Hunter", 
                   "Full Stack Developer"]
